@@ -46,16 +46,16 @@ button {
     text-transform: uppercase;
 }
 
-#oficinas_caixa { top: 166px; left: 200px; } 
-#oficinas_atendimento { top: 198px; left: 286px; }
+#oficinas_caixa { top: 168px; left: 200px; } 
+#oficinas_atendimento { top: 180px; left: 286px; }
 
-#santa_paula_caixa { top: 306px; left: 193px; } 
-#santa_paula_atendimento { top: 336px; left: 282px; }
+#santa_paula_caixa { top: 308px; left: 193px; } 
+#santa_paula_atendimento { top: 340px; left: 282px; }
 
-#palmeirinha_caixa { top: 448px; left: 188px; }
-#palmeirinha_acompanhamento { top: 478px; left: 338px; } 
-#palmeirinha_encomendas { top: 510px; left: 272px; }
-#palmeirinha_atendimento { top: 540px; left: 272px; }
-#palmeirinha_cozinha { top: 572px; left: 216px; } 
+#palmeirinha_caixa { top: 450px; left: 188px; }
+#palmeirinha_acompanhamento { top: 482px; left: 338px; } 
+#palmeirinha_encomendas { top: 513px; left: 272px; }
+#palmeirinha_atendimento { top: 544px; left: 272px; }
+#palmeirinha_cozinha { top: 576px; left: 216px; } 
 
-#entrega { top: 674px; left: 110px; } 
+#entrega { top: 676px; left: 110px; } 
