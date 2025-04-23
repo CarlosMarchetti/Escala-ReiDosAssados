@@ -40,22 +40,22 @@ button {
     position: absolute;
     color: #000;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 20px;
     font-style: italic;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-transform: uppercase;
 }
 
-#oficinas_caixa { top: 164px; left: 200px; } 
-#oficinas_atendimento { top: 196px; left: 286px; }
+#oficinas_caixa { top: 166px; left: 200px; } 
+#oficinas_atendimento { top: 198px; left: 286px; }
 
-#santa_paula_caixa { top: 304px; left: 193px; } 
+#santa_paula_caixa { top: 306px; left: 193px; } 
 #santa_paula_atendimento { top: 336px; left: 282px; }
 
-#palmeirinha_caixa { top: 446px; left: 188px; }
-#palmeirinha_acompanhamento { top: 474px; left: 338px; } 
-#palmeirinha_encomendas { top: 506px; left: 274px; }
-#palmeirinha_atendimento { top: 538px; left: 274px; }
-#palmeirinha_cozinha { top: 568px; left: 216px; } 
+#palmeirinha_caixa { top: 448px; left: 188px; }
+#palmeirinha_acompanhamento { top: 478px; left: 338px; } 
+#palmeirinha_encomendas { top: 510px; left: 272px; }
+#palmeirinha_atendimento { top: 540px; left: 272px; }
+#palmeirinha_cozinha { top: 572px; left: 216px; } 
 
-#entrega { top: 672px; left: 110px; } 
+#entrega { top: 674px; left: 110px; } 
