@@ -1,65 +1,52 @@
 body {
-    font-family: Arial, sans-serif;
-    background: #f9f9f9;
-    padding: 20px;
-    text-align: center;
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  padding: 20px;
+  text-align: center;
 }
-
 input {
-    width: 90%;
-    padding: 8px;
-    margin: 5px 0;
+  width: 90%;
+  padding: 8px;
+  margin: 5px 0;
 }
-
 .input-group {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-
 button {
-    margin: 20px;
-    padding: 10px 20px;
-    background: #c62828;
-    color: white;
-    border: none;
-    border-radius: 5px;
+  margin: 20px;
+  padding: 10px 20px;
+  background: #c62828;
+  color: white;
+  border: none;
+  border-radius: 5px;
 }
-
 #imagePreview {
-    position: relative;
-    display: inline-block;
+  position: relative;
+  display: inline-block;
 }
-
 #imagePreview img {
-    width: 600px;
-    height: auto;
+  width: 600px;
+  height: auto;
 }
-
 .texto {
-    position: absolute;
-    color: #000;
-    font-weight: bold;
-    font-size: 20px;
-    font-style: italic;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-transform: uppercase;
+  position: absolute;
+  color: #000;
+  font-weight: bold;
+  font-size: 18px;
+  font-style: italic;
+  text-transform: uppercase;
+  font-family: 'Lucida Sans', sans-serif;
 }
-
-#oficinas_caixa { top: 167px; left: 200px; } 
-#oficinas_atendimento { top: 199px; left: 286px; }
-#oficinas_encomendas { top: 231px; left: 260px; }
-
-#santa_paula_caixa { top: 307px; left: 193px; } 
-#santa_paula_atendimento { top: 339px; left: 282px; }
-#santa_paula_encomendas { top: 371px; left: 260px; }
-
-#palmeirinha_caixa { top: 449px; left: 188px; }
-#palmeirinha_acompanhamento { top: 481px; left: 338px; } 
-#palmeirinha_encomendas { top: 512px; left: 272px; }
-#palmeirinha_atendimento { top: 543px; left: 272px; }
-#palmeirinha_cozinha { top: 575px; left: 216px; } 
-
-
-
-#entrega { top: 676px; left: 110px; } 
+#oficinas_caixa { top: 181px; left: 205px; }
+#oficinas_encomendas { top: 217px; left: 295px; }
+#santa_paula_caixa { top: 343px; left: 205px; }
+#santa_paula_atendimento { top: 377px; left: 307px; }
+#santa_paula_encomendas { top: 412px; left: 295px; }
+#palmeirinha_caixa { top: 518px; left: 205px; }
+#palmeirinha_acompanhamento { top: 553px; left: 371px; }
+#palmeirinha_encomendas { top: 587px; left: 298px; }
+#palmeirinha_atendimento { top: 622px; left: 307px; }
+#palmeirinha_cozinha { top: 657px; left: 240px; }
+#entrega { top: 765px; left: 120px; }
